@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**MaximeBoulenger/MaximeBoulenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MaximeBoulenger/MaximeBoulenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. lol
 
 Here are some ideas to get you started:
 
